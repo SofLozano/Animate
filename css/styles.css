@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: plum;
+}
+
+#fusion {
+    position: relative;
+}
+
+.armas {
+    position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: 1;
+  animation-delay: 3s
+}
+.texturas {
+    position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -2;
+  animation-delay: 2.5s
+}
+.sombras {
+    position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -3;
+  animation-delay: 2s
+}
+.monjes {
+    position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -4;
+  animation-delay: 1.5s;
+}
+.texto2 {
+    position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -5;
+  animation-delay: 1s;
+}
+.texto {
+    position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -6;
+  animation-delay: .5s ;
+}
+.fondo   {
+    position: absolute;
+  left: 0px;
+  top: 0px;
+  z-index: -7;
+  
+}
